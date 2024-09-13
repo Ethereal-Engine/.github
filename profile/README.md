@@ -1,5 +1,5 @@
-# Welcome to EtherealEngine
+# Welcome to iR Engine
 
 Home of the open social spatial web.
 
-# [Go to GitHub.com/EtherealEngine](https://github.com/etherealengine)
+# [Now at GitHub.com/iR-Engine](https://github.com/ir-engine)
